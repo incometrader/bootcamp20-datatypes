@@ -1,3 +1,5 @@
+const dataTypes = require('../app.js');
+
 describe("Data types tests ", function() {
   describe("Case for some falsy values", function() {
 
