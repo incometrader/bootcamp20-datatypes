@@ -1,0 +1,30 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "A function that returns values based on arguments passed to it",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/bootcamp20-datatypes.git"
+  },
+  "keywords": [
+    "datatypes",
+    "andelabs",
+    "function"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp20-datatypes/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp20-datatypes#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine": "^2.5.3"
+  }
+}
